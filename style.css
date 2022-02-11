@@ -15,3 +15,9 @@ img.left {
     float: left;
     padding: 0px 20px  20px 0px;
 }
+
+table, th, td {
+    padding: 5px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
