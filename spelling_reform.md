@@ -1,6 +1,7 @@
 <head>
-    <title>English Spelling Reform Proposal</title>
+    <meta charset="utf-8"/>
     <link rel="stylesheet" type = "text/css" href="./style.css">
+    <title>English Spelling Reform Proposal</title>
 </head>
 
 # My Proposal for an English Spelling Reform
