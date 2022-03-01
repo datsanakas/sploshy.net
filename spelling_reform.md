@@ -26,7 +26,7 @@ IPA | Example in old orthography | New spelling
 /p/ | **p**ot | p
 /t/ | **t**op | t
 /tʃ/ | **ch**at | c
-/k/ | **c**cat | k
+/k/ | **c**at | k
 /b/ | **b**at | b
 /d/ | **d**ot | d
 /dʒ/ | **j**ob | j
@@ -51,57 +51,65 @@ IPA | Example in old orthography | New spelling
 ## Vowels
 In this spelling reform, instead of basing the spelling of vowel sounds upon their pronounciation in one accent, I have tried to create an accent-agnostic orthography, so that the reform will work in any accent of English (words will still be spelled differently in different dialects however, because words can also vary phonemically). To achieve this, I have used John. C. Wells' lexical sets, which identify words into a lexical set based on the pronounciation of their stressed syllable. Each lexical set has been given a unique spelling. Notice that some lexical sets might be pronounced in the same way in your accent.
 
-Some unfamiliar letters have been introduced. An inverted breve can now be added to a, e, o, i and u, which loosely represents a greater length, but is just transforms it into another sound which could also be intuitively made by the same letter in the current spelling. Similarly, these vowels can also take a regular breve accent to change the sound they represent. 
+Some unfamiliar letters have been introduced. An breve or inverted breve can now be added to some letters to represent another sound it could intuitively represent in the current spelling.  
 
-To form the lexical sets which are dipthongs in most accents, I have used diagraphs ending with *w* and *i*. An *r* is used for the lexical sets that are typically pronounced with a /r/ or r-coloured vowel, but the *r* can be considered silent for non-rhotic speakers.
+To form the lexical sets which are diphthongs in most accents, I have used diagraphs ending with *w* and *y*. An *r* is used for the lexical sets that are typically pronounced with a /r/ or r-coloured vowel, but the *r* can be considered silent for non-rhotic speakers.
 
 Lexical set | New spelling | Examples 
 :--|---|---
-<span style="font-variant:small-caps;">kit</span> | i | ship, sik, brij, milk, mith, bizi
-<span style="font-variant:small-caps;">dress</span> | e | step, nek, ej, shelf, frend, redi
+<span style="font-variant:small-caps;">kit</span> | i | ship, sik, brij, milk, mith, bizy
+<span style="font-variant:small-caps;">dress</span> | e | step, nek, ej, shelf, frend, redy
 <span style="font-variant:small-caps;">trap</span> | a | tap, bak, baj, skalp, hand, kansĕl
-<span style="font-variant:small-caps;">lot</span> | o | stop, sok, doj, romp, posibl, qoliti
+<span style="font-variant:small-caps;">lot</span> | o | stop, sok, doj, romp, posĕbl, qolity
 <span style="font-variant:small-caps;">strut</span> | ŭ | kŭp, sŭk, bŭj, pŭls, trŭnk, blŭd
 <span style="font-variant:small-caps;">foot</span> | u | put, bush, ful, gud, luk, wulf 
 <span style="font-variant:small-caps;">bath</span> | ȃ | stȃf, brȃs, ȃsk, dȃns, sȃmpl, kȃf
-<span style="font-variant:small-caps;">cloth</span> | ŏ | klŏth, kŏf, brŏth, krŏs, rŏmp, pŏsibl, qŏliti
-<span style="font-variant:small-caps;">nurse</span> | ur | nurs, lurk, urj, burst, jurk, turm
-<span style="font-variant:small-caps;">fleece</span> | ȋ | krȋp, spȋk, lȋv, fȋl, kȋ, pȋpl
-<span style="font-variant:small-caps;">face</span> | ei | teip, keik, reid, veil, steik, dei 
+<span style="font-variant:small-caps;">cloth</span> | ŏ | kŏf, brŏth, krŏs, lŏng, Bŏstĕn
+<span style="font-variant:small-caps;">nurse</span> | ĕr | nĕrs, lĕrk, ĕrj, bĕrst, jĕrk, tĕrm
+<span style="font-variant:small-caps;">fleece</span> | iy | kriyp, spiyk, liyv, fiyl kiy, piypl
+<span style="font-variant:small-caps;">face</span> | ey | teyp, keyk, reyd, veyl, steyk, dey 
 <span style="font-variant:small-caps;">palm</span> | ă | psăm, fădhĕr, bră, spă, lăgĕr
 <span style="font-variant:small-caps;">thought</span> | ȏ | tȏt, sȏs, hȏk, jȏ, brȏd
+<span style="font-variant:small-caps;">goose</span> | uw | luwp, shuwt, tuwm, myuwt, hyuwj, vyuw
 <span style="font-variant:small-caps;">goat</span> | ow | sowp, jowk, howm, now, sow, rowl
-<span style="font-variant:small-caps;">goose</span> | ȗ | lȗp, shȗt, tȗm, myȗt, hyȗj, vyȗ
-<span style="font-variant:small-caps;">price</span> | ai | raip, rait, ĕraiv, hai, trai, bai
-<span style="font-variant:small-caps;">choice</span> | oi | ĕdroit, noiz, join, toi, roiĕl
+<span style="font-variant:small-caps;">price</span> | ay | rayp, rayt, ĕrayv, hay, tray, bay
+<span style="font-variant:small-caps;">choice</span> | oy | ĕdroyt, noyz, joyn, toy, royĕl
 <span style="font-variant:small-caps;">mouth</span> | aw | awt, haws, lawd, kawnt, krawd, kaw 
-<span style="font-variant:small-caps;">near</span> | ir | bir, sinsir, fir, bird, sirum
+<span style="font-variant:small-caps;">near</span> | ir | bir, sĕnsir, fir, bird, sirum
 <span style="font-variant:small-caps;">square</span> | ȇr | kȇr, fȇr, pȇr, whȇr, skȇrs, vȇri
 <span style="font-variant:small-caps;">start</span> | ȃr | fȃr, shȃrp, bȃrk, kȃrv, fȃrm, hȃrt
 <span style="font-variant:small-caps;">north</span> | ȏr | fȏr, wȏr, shȏrt, skȏrc, bȏrn, wȏrm
 <span style="font-variant:small-caps;">force</span> | ŏr | fŏr, wŏr, spŏrt, bŏrn, stŏry
-<span style="font-variant:small-caps;">cure</span> | ȗr | pȗr, tȗrist, pyȗr, plȗral, jȗry
-happ<span style="font-variant:small-caps;">y</span> | y | kopy, skampy, taksy, sorty, kĕmity, hoky, celsy
-lett<span style="font-variant:small-caps;">er</span> | ĕr | peipĕr, mitĕr, kalĕndĕr, styȗpĕr, sŭkĕr, mȃrtĕr, figĕr
-comm<span style="font-variant:small-caps;">a</span> | ĕ | kĕtalpĕ, qoutĕ, vodkĕ 
+<span style="font-variant:small-caps;">cure</span> | ur | pur, turist, pyur, plurĕl, jury
+
+Some extra lexical sets are also defined for word-final unstressed syllables, and I have chosen spellings for them that roughly match up to the current orthography. *ĕr* and *a* are also used for other lexical sets, but this does not matter, as those sounds cannot be found at the end of words.
+
+The unstressed vowel found in *hidd**e**n* or *purch**a**se*, which is usually pronounced /ə/ or /ɪ/, is represented by *ĕ*.
+
+Lexical set | New spelling | Examples 
+:--|---|---
+happ<span style="font-variant:small-caps;">y</span> | y | kopy, skampy, taksy, sorty, kĕmity, hoky, Celsy
+lett<span style="font-variant:small-caps;">er</span> | ĕr | peypĕr, mitĕr, kalĕndĕr, styȗpĕr, sŭkĕr, mȃrtĕr, figĕr
+comm<span style="font-variant:small-caps;">a</span> | a | kĕtalpa, qouta, vodka 
 
 ## Rules for common words
 Many elementary English words have an unstressed form which occurs when the word is emphasised. In some words, such as *the*, the stressed form also occurs when the following word begins with a vowel.
 
 Current spelling | Stressed | Unstressed
 :--|---|---
-the | dhȋ | dhĕ
+the | dhiy | dhĕ
 of | ov | ĕv
 and | and | ĕnd
-to | tȗ | tĕ
-a | ei | ĕ
+to | tuw | tĕ
+a | ey | ĕ
 an | an | ĕn
+are | ȃr | ĕr
 
 ## Example text
-> *The North Wind and the Sun were disputing which was the stroger, when a traveler came along wrapped in a warm cloak. They agreed that the one who first succeeded in making the traveler take his cloak off should be considered stronger than the other. Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveler fold his cloak around him; and at last the North Wind gave up the attempt. Then the Sun shined out warmly, and immediately the traveler took off his cloak. And so the North Wind was obliged to confess that the Sun was the stronger of the two.*
+> *The North Wind and the Sun were disputing which was the stronger, when a traveler came along wrapped in a warm cloak. They agreed that the one who first succeeded in making the traveler take his cloak off should be considered stronger than the other. Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveler fold his cloak around him; and at last the North Wind gave up the attempt. Then the Sun shined out warmly, and immediately the traveler took off his cloak. And so the North Wind was obliged to confess that the Sun was the stronger of the two.*
 
-Dhĕ Nȏrth Wind and dhĕ Sŭn wur dispyȗting whic wŏz dhĕ strongĕr, when ĕ travĕlĕr keim ĕlong rapt in ĕ wȏrm klowk.
-Dhei ĕgrȋd dhat dhĕ wŭn hȗ first sŭksȋdid in meiking dhĕ travĕlĕr teik hiz klowk of shud bȋ cĕnsidĕrd strongĕr dhan dhȋ ŭdhĕr.
-Dhen dhe Nȏrth Wind blȗ ĕz hȃrd ĕz hȋ kud, bŭt dhĕ mŏr hȋ blȗ dhĕ mŏr klowsly did dhĕ travĕlĕr fold hiz klowk ĕrawnd him;
-and ĕt last, dhĕ Nȏrth Wind geiv ŭp dhĕ ĕtempt. Dhen dhĕ Sŭn shaind awt wȏrmly, ĕnd imȋdȋĕtly dhĕ travĕlĕr tuk of hiz klowk.
-And sow dhĕ Nȏrth Wind wŏz ĕblaijd tĕ cĕnfes dhat dhĕ Sŭn wŏz dhĕ strongĕr ĕv dhĕ tȗ.
+Dhĕ Nȏrth Wind and dhĕ Sŭn wĕr dispyuwting whic wŏz dhĕ strongĕr, when ĕ travĕlĕr keym ĕlong rapt in ĕ wȏrm klowk.
+Dhey ĕgriyd dhat dhĕ wŭn huw first sŭksiydĕd in meyking dhĕ travĕlĕr teyk hiz klowk of shud biy cĕnsidĕrd strongĕr dhan dhiy ŭdhĕr.
+Dhen dhe Nȏrth Wind bluw ĕz hȃrd ĕz hiy kud, bŭt dhĕ mŏr hiy bluw dhĕ mŏr klowsly did dhĕ travĕlĕr fold hiz klowk ĕrawnd him;
+and ĕt last, dhĕ Nȏrth Wind geyv ŭp dhĕ ĕtempt. Dhen dhĕ Sŭn shaynd awt wȏrmly, ĕnd ĕmiydiyĕtly dhĕ travĕlĕr tuk of hiz klowk.
+And sow dhĕ Nȏrth Wind wŏz ĕblayjd tĕ cĕnfes dhat dhĕ Sŭn wŏz dhĕ strongĕr ĕv dhĕ tuw.
