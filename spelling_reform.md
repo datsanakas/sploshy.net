@@ -90,7 +90,7 @@ Lexical set | New spelling | Examples
 :--|---|---
 happ<span style="font-variant:small-caps;">y</span> | y | kopy, skampy, taksy, sorty, kĕmity, hoky, Celsy
 lett<span style="font-variant:small-caps;">er</span> | ĕr | peypĕr, mitĕr, kalĕndĕr, styȗpĕr, sŭkĕr, mȃrtĕr, figĕr
-comm<span style="font-variant:small-caps;">a</span> | a | kĕtalpa, qouta, vodka 
+comm<span style="font-variant:small-caps;">a</span> | a | kĕtalpa, qowta, vodka 
 
 ## Rules for common words
 Many elementary English words have an unstressed form which occurs when the word is emphasised. In some words, such as *the*, the stressed form also occurs when the following word begins with a vowel.
